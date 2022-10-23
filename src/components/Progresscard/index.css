@@ -1,0 +1,47 @@
+
+.progress-items1 {
+	text-align: center;
+	/* padding:5px; */
+	border: 1px solid #f0f0f5;
+}
+
+.progress-items2 {
+	text-align: center;
+	/* padding: 5px; */
+    border: 1px solid #f0f0f5;
+}
+
+.progress-items3 {
+	text-align: center;
+	/* padding: 5px; */
+    border: 1px solid #f0f0f5;
+}
+
+.progress-items4 {
+	text-align: center;
+	/* padding: 5px; */
+    border: 1px solid #f0f0f5;
+}
+.progress-items5 {
+	text-align: center;
+	/* padding: 5px; */
+    border: 1px solid #f0f0f5;
+}
+
+.progress-per {
+	
+
+	margin-left: 15px;
+	
+	
+	
+}
+.progress-rate {
+	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+	font-size: small;
+	font-weight: bold;
+}
+.progress-name {
+	font-size: small;
+}
+

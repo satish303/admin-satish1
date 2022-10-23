@@ -1,0 +1,83 @@
+.card-Item {
+	/* flex: 1; */
+	padding: 10px;
+	border-radius: 5px;
+	cursor: pointer;
+	height: 150px;
+	font-size: 18px;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.card-money {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.col-lg-3:nth-child(1) .card-Item {
+	background-color: #3220da;
+}
+.col-lg-3:nth-child(2) .card-Item {
+	background-color: #3299ff;
+}
+.col-lg-3:nth-child(3) .card-Item {
+	background-color: #fab117;
+}
+.col-lg-3:nth-child(4) .card-Item {
+	background-color: #e55252;
+}
+
+.bar {
+	padding: 10px;
+	background-color: #a6a6a6;
+	width: 100%;
+}
+.card-money {
+	color: white;
+}
+.money-rate {
+	color: white;
+	padding-top: 6px;
+}
+.card-tittle {
+	color: white;
+}
+.row {
+	margin: 1px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 100%;
+	padding-left: 11px;
+}
+.card-topleft {
+	width: 330px;
+}
+.crad-topright {
+	color: white;
+}
+.card-bg-img {
+	height: 33px;
+	margin-top: 20px;
+}
+
+.card1 {
+	background: url(../../Asets/Images/lineImage1.png);
+	background-position: 50% 20%;
+	background-repeat: no-repeat;
+}
+.card2 {
+	background: url(../../Asets/Images/lineImage3.png);
+	background-position: 50% 20%;
+	background-repeat: no-repeat;
+}
+.card3 {
+	background: url(../../Asets/Images/lineImage2.png);
+	background-position: 50% 20%;
+	background-repeat: no-repeat;
+}
+.card4 {
+	background: url(../../Asets/Images/firstImage.png);
+	background-position: 50% 20%;
+	background-repeat: no-repeat;
+}
